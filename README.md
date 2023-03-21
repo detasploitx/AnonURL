@@ -1,21 +1,21 @@
-# MaskUrl
+<h1><p align="center">AnonURL</p></h1>
 
+<p align="center">Simple Script Masks the Phishing Link Under the Normal URL<br/>―――― MD Asif Hasan ――――</p>
+
+## Note :
 This simple Python Script masks the Phishing URL under the Normal URL. It generates a hidden URL for social engineering.
 
-## Installation
+### Installation :
 
-```bash
-$ git clone https://github.com/yogeshwaran01/maskurl
-$ cd maskurl
-$ python3 maskurl.py
+``` shell script
+git clone https://github.com/DetaSploit/AnonURL
+cd AnonURL
+python3 AnonURL.py
 ```
-
-![example](sample.png)
-
 ## Usage
 
 ```bash
-$ python3 maskurl.py --target https://google.com --mask https://instagram.com --keywords free-likes
+$ python3 AnonURL.py --target https://google.com --mask https://instagram.com --keywords free-likes
 ```
 
 ```log
@@ -26,16 +26,17 @@ $ python3 maskurl.py --target https://google.com --mask https://instagram.com --
 --keywords      Keywords (Use (-) instead of whitespace)
 ```
 
-Simple Usage
+## Simple Usage
 
 ```bash
-$ python3 maskurl.py 
+$ python3 AnonURL.py 
 ```
 
-## Legal Disclaimer
+## Note :
+<li>Usage of AnonURL for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program</li>
+<li>Use It At Your Own Risk</li>
 
-Usage of MaskUrl for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-## Credits
+## Visitors :
 
-This Scrpit is inspired from [jaykali's maskphish](https://github.com/jaykali/maskphish)
+![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
