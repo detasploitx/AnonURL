@@ -15,7 +15,7 @@ python3 AnonURL.py
 ## Usage
 
 ```bash
-$ python3 AnonURL.py --target https://google.com --mask https://instagram.com --keywords free-likes
+python3 AnonURL.py --target https://google.com --mask https://instagram.com --keywords free-likes
 ```
 
 ```log
@@ -29,7 +29,7 @@ $ python3 AnonURL.py --target https://google.com --mask https://instagram.com --
 ## Simple Usage
 
 ```bash
-$ python3 AnonURL.py 
+python3 AnonURL.py 
 ```
 
 ## Note :
