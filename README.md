@@ -1,6 +1,6 @@
 <h1><p align="center">AnonURL</p></h1>
 
-<p align="center">Simple Script Masks the Phishing Link Under the Normal URL<br/>―――― MD Asif Hasan ――――</p>
+<p align="center">Simple Script Masks the Phishing Link Under the Normal URL<br/></p>
 
 ## Note :
 This simple Python Script masks the Phishing URL under the Normal URL. It generates a hidden URL for social engineering.
@@ -8,7 +8,7 @@ This simple Python Script masks the Phishing URL under the Normal URL. It genera
 ### Installation :
 
 ``` shell script
-git clone https://github.com/DetaSploit/AnonURL
+git clone https://github.com/detasploitx/AnonURL
 cd AnonURL
 python3 AnonURL.py
 ```
